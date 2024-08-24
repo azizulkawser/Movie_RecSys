@@ -1,0 +1,3 @@
+[submodule "CRISP-DM_Template"]
+	path = CRISP-DM_Template
+	url = https://github.com/azizulkawser/CRISP-DM_Template.git
